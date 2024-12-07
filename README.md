@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fbc6cbb7-a567-4dad-ab5a-659d6450dabd)# c4-learning
+# c4-learning
 
 期末大作业是打算写一个自己的解释器，所以先仿写一个已有的解释器
 差不多写了一个多月，边学别写
